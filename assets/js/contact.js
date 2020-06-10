@@ -1,0 +1,1 @@
+console.log("hey i'm inside JS of assests");
